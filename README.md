@@ -29,3 +29,18 @@ Primeiro, clone o repositório para sua máquina local:
 ```bash
 git clone https://github.com/DavidCoelho95/superfrete-playwright.git
 cd superfrete-playwright
+```
+### 2. Instalar Dependências
+```bash
+npm install
+```
+
+### 3. Executar os Testes
+```bash
+npx playwright test
+```
+
+
+
+
+
